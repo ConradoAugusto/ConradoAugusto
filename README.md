@@ -14,6 +14,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Um Front-End apaixonado pela área da tecnologia.
+Um Front-End apaixonado por desafios.
 
 
